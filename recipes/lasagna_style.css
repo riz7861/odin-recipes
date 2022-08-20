@@ -1,7 +1,66 @@
-h1 {
-    color:white;
-    background-color:rgb(63, 7, 146);
+.header {
+    color: #16ffe0;
+    background-color: rgb(55 40 37 / 0%);
     text-align: center;
     font-size: 32px;
     font-synthesis: bold;
+    border: rgb(252, 0, 0);
+    padding: 1px;
+    margin: -30px;
+}
+
+
+.lasagna {
+    height: auto;
+    text-align: center;
+    width: 500px;
+    padding: 20px 10px 10px 784px;
+    border:white;
+    margin: 11px 13px 16px -25px ;
+}
+
+body {
+    background-image: url(./360.jpg);
+}
+.opening {
+    color: #00ff50;
+    background-color: rgb(55 40 37 / 0%);
+    text-align: center;
+    height: 53px;
+    width: -21px;
+    padding: 10px;
+    border: 93px white;
+    margin: -21px 485px 8px 295px;
+}
+
+.random {
+    color: #ffffff;
+    background-color: rgb(55 40 37 / 0%);
+    text-align: center;
+    font: monospace;
+    border: rgb(252, 0, 0);
+    padding: 0px;
+    margin: -26px;
+}
+
+.ingredients {
+    color: red;
+    background-color: rgb(55 40 37 / 0%);  
+    height: 339px;
+    width: 242px;
+    padding: 10px;
+    border: 60px white;
+    margin: 25px 20px 44px 113px;
+}
+
+.teaching {
+    color: red;
+    background-color: rgb(55 40 37 / 0%);
+    font-size: 31px;
+    height: 322px;
+    width: 1032px;
+    padding: 10px;
+    border: 41px white;
+    margin: 29px 49px 79px 403px;
+
 }
